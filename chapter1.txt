@@ -1,1 +1,2 @@
 This is chapter 1 from story2.
+This is a great story.
